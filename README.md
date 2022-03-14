@@ -6,5 +6,5 @@ In this branch you find only the java classes. Go to the master branch to downlo
 
 Code is updated to Android version 32, but it has not been tested on devices different from my own: a Moto G (5S) Plus running an old Android 8.1
 
-Please, if you have to, cite this work as follow:
+Please, if you have to, cite this work as follow:</ br>
 Alunno, Marco, “A&I, a Suite for Piano, Android Device and Vibration Speaker.” Leonardo (?), 2022.
